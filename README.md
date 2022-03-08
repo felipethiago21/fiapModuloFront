@@ -1,1 +1,1 @@
-## Repositório para hospedar os códigos do módulo de Front-End do curso Front-End Specialist da Fiap.
+## Repositório para hospedar os exercicios do módulo de Front-End do curso Front-End Specialist da Fiap.
